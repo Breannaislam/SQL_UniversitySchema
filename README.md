@@ -1,6 +1,6 @@
 # SQL Query Assignment – University Schema
 
-This project contains SQL queries executed using the **University Schema**, based on the sample data provided in `smallRelationsInsertFile.sql`.
+This my first mini project, it contains SQL queries executed using the **University Schema**, based on the sample data provided in `smallRelationsInsertFile.sql`.
 
 Below is a summary of the assignment tasks, grouped by section.
 
