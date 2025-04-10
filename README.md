@@ -68,7 +68,7 @@ Write the following queries in SQL using the university schema, execute them on 
 
 ---
 
-## 📎 Notes
+## Notes
 
 - Screenshots of the executed queries and their results are included in the `/images/` folder.
 - SQL script used: [`smallRelationsInsertFile.sql`](./sql/smallRelationsInsertFile.sql)
